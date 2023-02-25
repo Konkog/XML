@@ -1,0 +1,9 @@
+<req>
+	<field name="FIO">Kondratov Pavel Sergeevich</field>
+	<field name="age">25</field>
+	<field name="animals">0</field>
+	<field name="salary">5000$</field>
+
+
+	
+</req>
